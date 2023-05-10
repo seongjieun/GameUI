@@ -11,4 +11,5 @@ public class GameUI : MonoBehaviour
     public GameObject gameOverUI;
     public Image hpBarUI;
     public Text scoreText;
+    public Text timeText;
 }
